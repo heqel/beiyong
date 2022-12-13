@@ -2,7 +2,7 @@
 ---------
 <img src="https://heqel.github.io/img/carousel-1.jpg" width="1200"> 
 
-<img src="https://playnite.link/applogo.png" width="32">  何岩资料站 [![Crowdin](https://badges.crowdin.net/playnite/localized.svg)](https://crowdin.com/project/playnite)
+<img src="https://playnite.link/applogo.png" width="32">  BY何岩 [![Crowdin](https://badges.crowdin.net/playnite/localized.svg)](https://crowdin.com/project/playnite)
 ---------
 这儿便是何岩资料站，编码梦开始的地方
 
