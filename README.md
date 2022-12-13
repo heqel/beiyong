@@ -10,4 +10,4 @@
 那我要怎么用好这个网站
 ---------
 
-收藏好！什么时候想用都能用的上，只有你想不到的没有他做不到的！ [资料站主页](https://playnite.link/download.html) page.
+收藏好！什么时候想用都能用的上，只有你想不到的没有他做不到的！ [资料站主页](https://heqel.github.io/#blog-carousel) page.
